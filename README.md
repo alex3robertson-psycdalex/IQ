@@ -1,5 +1,6 @@
 # IQ
-an honest, vain, and pointless assessment
+
+
 reevaluate iq across domains
 for understanding
 i know iq is vain bullshit that is non rigorous
